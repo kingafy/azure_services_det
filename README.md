@@ -160,3 +160,6 @@ Azure Cognitive Search offers a rich query language to support a broad range of 
 From <https://medium.com/awesome-azure/azure-most-useful-azure-services-every-developer-must-know-top-azure-paas-serverless-services-developer-c55b829ac6d7> 
 
 ![image](https://github.com/user-attachments/assets/78061f7b-f335-43b4-9d33-cb10d4d70838)
+
+
+
